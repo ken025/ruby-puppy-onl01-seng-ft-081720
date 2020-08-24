@@ -27,5 +27,5 @@ end
   end 
   
   def name 
-    @@all = name
+    @n
 end 
