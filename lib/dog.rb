@@ -27,5 +27,6 @@ end
   end 
   
   def name 
-    @n
+    @puppy
+  end 
 end 
