@@ -6,5 +6,8 @@ class Dog
   def initialize(puppy)
     @puppy = puppy 
     @@all << self 
+    
+    def self.all
+      @@all
   end 
 end 
